@@ -1,0 +1,51 @@
+h1 {
+	text-align: center;
+	margin-top: 20px;
+	font-family: "arial, helvetica, sans-serif";
+	color: orange ;
+}
+button {
+	margin: 0px;
+	vertical-align: middle;
+	text-align: center;
+	border-radius: 20px;
+}
+
+span {
+	text-align: center;
+}
+
+#newgame {
+	text-align: center;
+	margin-top: 20px;
+}
+.score_info {
+	text-align: center;
+	margin: 10px auto;
+	font-family: "arial, helvetica, sans-serif";
+	font-size: 20px;
+}
+#score {
+	text-align: center;
+	margin: 10px auto;
+	font-family: "arial, helvetica, sans-serif";
+	font-size: 30px;
+}
+#grid_show {
+	background: url(../images/back.jpg);
+	background-size: cover ;
+	width: 440px;
+	height: 440px;
+	margin: 20px auto auto auto;
+}
+.grid
+{
+	width: 100px;
+	height: 100px;
+	float: left;
+	background-color: blanchedalmond;
+	opacity: 0.5;
+	margin: 5px 5px 5px 5px;
+	line-height: 100px;
+	text-align: center;
+}
